@@ -1,8 +1,27 @@
-# theme: jekyll-theme-modernist
-collections:
-  authors:
-    output: true
+title: Rob Warner's Website
+author: Rob Warner
 
+social-network-links:
+  email: "someone@example.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: "robertwarner"
+
+
+# --- Colours / background image --- #
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
 plugins:
   - jekyll-feed
@@ -10,11 +29,6 @@ plugins:
   - jekyll-seo-tag
 
 defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
   - scope:
       path: ""
       type: "posts"
