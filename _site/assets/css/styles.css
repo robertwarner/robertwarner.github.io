@@ -1,4 +1,4 @@
-.current { color: green; }
+.current { color: blue; }
 
 html { font-size: 100%; }
 
@@ -27,5 +27,9 @@ blockquote { color: #808080; font-style: italic; }
 blockquote p:first-child { margin-top: 0; }
 
 hr.small { max-width: 6.25rem; margin: 1rem auto; border-width: 0.25rem; border-color: inherit; border-radius: 0.1875rem; }
+
+nav { display: block; padding: 8px; background-color: #dddddd; }
+
+nav a { display: inline; padding: 8px; background-color: #d8d49d; }
 
 /*# sourceMappingURL=styles.css.map */
