@@ -3,11 +3,33 @@
     <channel>
         <title>rob-warner-blog</title>
         <description>Rob's Simple Blog</description>
-        <link>https://robertwarner.github.io/</link>
-        <atom:link href="https://robertwarner.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Dec 2022 17:44:17 -0700</pubDate>
-        <lastBuildDate>Sun, 18 Dec 2022 17:44:17 -0700</lastBuildDate>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 18 Dec 2022 18:06:36 -0700</pubDate>
+        <lastBuildDate>Sun, 18 Dec 2022 18:06:36 -0700</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Getting this blog off the ground</title>
+                <description>&lt;p&gt;Today I finally got started on publishing my blog. I installed a theme that I’m happy with.&lt;/p&gt;
+
+&lt;p&gt;The webiste builds, and has the my only other blog post that I will shortly delete.&lt;/p&gt;
+
+&lt;p&gt;I’m mostly happy that I finally have a website going.&lt;/p&gt;
+
+&lt;p&gt;There’s a lot to do, but I’d like to modify it just to the point were it feels like my own, and then I’ll be done with it for tonight.&lt;/p&gt;
+
+&lt;p&gt;Soon I will start updating this regualarly and become a better writer.&lt;/p&gt;
+
+</description>
+                <pubDate>Sun, 18 Dec 2022 00:00:00 -0700</pubDate>
+                <link>http://localhost:4000/update</link>
+                <guid isPermaLink="true">http://localhost:4000/update</guid>
+                
+                <category>doesThisWork</category>
+                
+                
+            </item>
         
             <item>
                 <title>First blog post</title>
@@ -26,8 +48,8 @@
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;This is what code block looks like&lt;/code&gt;&lt;/p&gt;
 </description>
                 <pubDate>Sun, 02 Jan 2022 00:00:00 -0700</pubDate>
-                <link>https://robertwarner.github.io/first-post</link>
-                <guid isPermaLink="true">https://robertwarner.github.io/first-post</guid>
+                <link>http://localhost:4000/first-post</link>
+                <guid isPermaLink="true">http://localhost:4000/first-post</guid>
                 
                 <category>doesThisWork</category>
                 

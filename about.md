@@ -8,6 +8,6 @@ feature_image: images/about.jpg
 This is a bit about me
 
 ## Hair
-[Ridiculous pandemic hairdo](/assets/images/2020_hair_due.jpg)
+[Ridiculous pandemic hairdo](images/2020_hair_due.jpg)
 
 ## CV

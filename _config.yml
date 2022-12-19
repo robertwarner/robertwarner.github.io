@@ -11,7 +11,7 @@ description: "Rob's Simple Blog"
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://robertwarner.github.io"
+url: "http://127.0.0.1:4000/"
 
 # Favicon
 favicon: images/favicon.png
@@ -32,8 +32,6 @@ navigation:
   - text: Download
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
-# The shortname for your Disqus site to enable comments.
-disqus: rwarnerblogdisqus
 
 # Colors
 accent_color: '#2d72d9'
