@@ -1,4 +1,4 @@
-I"à<h1 id="first-post-on-my-site">First post on my site!!</h1>
+I"Í<h1 id="first-post-on-my-site">First post on my site!!</h1>
 <p>Iâ€™m starting my website today. This is the first post! How exciting!</p>
 
 <p>Stay tuned for more exciting content to be posted here soon.</p>
@@ -10,5 +10,5 @@
   <li>add hamburger menu for navigation</li>
 </ul>
 
-<p><code class="language-plaintext highlighter-rouge">This is what code block looks like</code></p>
+<p><code class="highlighter-rouge">This is what code block looks like</code></p>
 :ET
