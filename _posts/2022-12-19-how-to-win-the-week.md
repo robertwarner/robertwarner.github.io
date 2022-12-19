@@ -25,6 +25,8 @@ noble purpose for the blog.
  - Trip to the Spot!
     - A nice Wednesday afternoon climb!
 
+## Big goals
+ 1. Plan trip to PA
 
 ## Hobby Goals
  1. woodworking? Draw picture of shoe rack.
