@@ -5,9 +5,51 @@
         <description>Rob's Simple Blog</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Dec 2022 21:39:10 -0700</pubDate>
-        <lastBuildDate>Sun, 18 Dec 2022 21:39:10 -0700</lastBuildDate>
+        <pubDate>Mon, 19 Dec 2022 07:43:00 -0700</pubDate>
+        <lastBuildDate>Mon, 19 Dec 2022 07:43:00 -0700</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>HTWTW: Dec 19th to Dec 25th</title>
+                <description>&lt;h1 id=&quot;how-to-win-the-week-htwtw&quot;&gt;How to win the week (HTWTW)!&lt;/h1&gt;
+
+&lt;p&gt;Good monring! I’m writing thiss on a monday morning as the first thing I do after showering.&lt;/p&gt;
+
+&lt;p&gt;I think keeping a weekly post about my goals, and todo list is a healthy and 
+noble purpose for the blog.&lt;/p&gt;
+
+&lt;h2 id=&quot;fitness-goals&quot;&gt;Fitness Goals&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;2 OTF classes
+    &lt;ul&gt;
+      &lt;li&gt;Attending 2 more this week will get me to 5 total classes for the month.&lt;/li&gt;
+      &lt;li&gt;Not good, but better than where I’m at.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2 days of Yoga with Adriene&lt;/li&gt;
+  &lt;li&gt;Hike in the flatirons
+    &lt;ul&gt;
+      &lt;li&gt;Activitiy for this evening&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Trip to the Spot!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hobby-goals&quot;&gt;Hobby Goals&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;woodworking? Draw picture of shoe rack.&lt;/li&gt;
+  &lt;li&gt;simple-website blog posts.&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+                <pubDate>Mon, 19 Dec 2022 00:00:00 -0700</pubDate>
+                <link>http://localhost:4000/how-to-win-the-week</link>
+                <guid isPermaLink="true">http://localhost:4000/how-to-win-the-week</guid>
+                
+                <category>Win the Week</category>
+                
+                
+            </item>
         
             <item>
                 <title>Getting this blog off the ground</title>
