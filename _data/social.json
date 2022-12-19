@@ -3,22 +3,28 @@
     {
       "title": "GitHub",
       "icon": "fa-github",
-      "url": "https://github.com/"
+      "url": "https://github.com/robertwarner"
     },
     {
       "title": "Instagram",
       "icon": "fa-instagram",
-      "url": "https://www.instagram.com/"
+      "url": "https://www.instagram.com/robwarner9294/"
     },
     {
       "title": "LinkedIn",
       "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
+      "url": "https://www.linkedin.com/in/robert-warner-5059a6191/"
+    },
+    {
+      "title": "YouTuvbe",
+      "icon": "fa-youtube",
+      "url": "https://www.youtube.com/@robwarner2070"
+
     },
     {
       "title": "Strava",
-      "icon": "fa-linkedin",
-      "url": "https://www.strava.com/"
+      "icon": "fa-strava",
+      "url": "https://www.strava.com/athletes/30855021"
     }
   ]
 }

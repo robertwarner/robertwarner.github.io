@@ -8,6 +8,6 @@ feature_image: images/about.jpg
 This is a bit about me
 
 ## Hair
-[Ridiculous pandemic hairdo](images/2020_hair_due.jpg)
+{% include image_caption.html imageurl="/images/2020_hairdo.jpg" title="Lots of hair" caption="I looked bad." %}
 
 ## CV
