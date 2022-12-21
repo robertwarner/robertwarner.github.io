@@ -5,8 +5,8 @@
         <description>Rob's Simple Blog</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Dec 2022 19:03:02 -0700</pubDate>
-        <lastBuildDate>Tue, 20 Dec 2022 19:03:02 -0700</lastBuildDate>
+        <pubDate>Tue, 20 Dec 2022 19:06:17 -0700</pubDate>
+        <lastBuildDate>Tue, 20 Dec 2022 19:06:17 -0700</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
         
             <item>
@@ -16,6 +16,10 @@
 &lt;p&gt;However, occasionally, the point hits you like a wall and only thing that you feel is your good intentions washing away.&lt;/p&gt;
 
 &lt;p&gt;Watching it fade away….&lt;/p&gt;
+
+&lt;p&gt;…“too short of notice”….”you don’t seem genuine”…&lt;/p&gt;
+
+&lt;p&gt;what other lies do I tell myself? When is it time to move on?&lt;/p&gt;
 </description>
                 <pubDate>Tue, 20 Dec 2022 00:00:00 -0700</pubDate>
                 <link>http://localhost:4000/inflections</link>

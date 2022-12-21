@@ -11,3 +11,7 @@ A inflection point is the point on a curve when the path changes from concave up
 However, occasionally, the point hits you like a wall and only thing that you feel is your good intentions washing away. 
 
 Watching it fade away....
+
+..."too short of notice"...."you don't seem genuine"...
+
+what other lies do I tell myself? When is it time to move on?
