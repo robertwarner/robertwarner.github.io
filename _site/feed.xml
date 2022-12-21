@@ -5,9 +5,26 @@
         <description>Rob's Simple Blog</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Dec 2022 08:04:04 -0700</pubDate>
-        <lastBuildDate>Mon, 19 Dec 2022 08:04:04 -0700</lastBuildDate>
+        <pubDate>Tue, 20 Dec 2022 19:03:02 -0700</pubDate>
+        <lastBuildDate>Tue, 20 Dec 2022 19:03:02 -0700</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Inflection points</title>
+                <description>&lt;p&gt;A inflection point is the point on a curve when the path changes from concave upward to concave downward. I strongly believe that the stories that we tell our selves as we go through life are full of inflection points. They are the moments that the mood changes, your perspective shifts, new realizations are found. Depending on the slope of the story you tell yourself, you might miss the point.&lt;/p&gt;
+
+&lt;p&gt;However, occasionally, the point hits you like a wall and only thing that you feel is your good intentions washing away.&lt;/p&gt;
+
+&lt;p&gt;Watching it fade away….&lt;/p&gt;
+</description>
+                <pubDate>Tue, 20 Dec 2022 00:00:00 -0700</pubDate>
+                <link>http://localhost:4000/inflections</link>
+                <guid isPermaLink="true">http://localhost:4000/inflections</guid>
+                
+                <category>Personal</category>
+                
+                
+            </item>
         
             <item>
                 <title>HTWTW: Dec 19th to Dec 25th</title>
