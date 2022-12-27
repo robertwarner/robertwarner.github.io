@@ -14,11 +14,11 @@ I think keeping a weekly post about my goals, and todo list is a healthy and
 noble purpose for the blog.
 
 ## Fitness Goals
- - Attend 2 OTF classes this week.
+ - ~~Attend 2 OTF classes this week.~~
     - Attending 2 more this week will get me to 5 total classes for the month.
     - Not good, but better than where I'm at.
     - I think Tuesday and Thursday are the best options since Sydney is sore.
- - 2 days of Yoga with Adriene
+ - ~~2 days of Yoga with Adriene~~
     - Keep at it!
  - Hike in the flatirons
     -  Activitiy for Monday evening.
@@ -26,7 +26,7 @@ noble purpose for the blog.
     - A nice Wednesday afternoon climb!
 
 ## Big goals
- 1. Plan trip to PA
+ 1. ~~Plan trip to PA~~
 
 ## Hobby Goals
  1. woodworking? Draw picture of shoe rack.
