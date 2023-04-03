@@ -2,7 +2,7 @@
 layout: post
 title: "HTWTW: first week of April"
 description: "Goals for the weeks"
-date: 2022-12-26
+date: 2023-04-02
 tags: ["Win the Week", "Spring"]
 ---
 
