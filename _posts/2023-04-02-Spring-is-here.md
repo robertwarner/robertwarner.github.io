@@ -14,7 +14,7 @@ Hello future reader. I'm presently watching a [YouTube video of a guy bike-pack 
 
  - I bought the Santa Cruz Hightower!
 
-{% include image_caption.html imageurl="/images/hightower.jpg" title="Hightower" caption="Hightowner!!" %}
+{% include image_caption.html imageurl="/images/hightower.jpg" title="Hightower" caption="Hightower!!" %}
 
 {% include image_caption.html imageurl="/images/hightower2.jpg" title="Hightower" caption="Santa Cruz Hightower in the sun at the end of my ride at Betasso Preserve" %}
 
