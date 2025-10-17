@@ -13,7 +13,7 @@ date: 2025-10-16
 
 In Altitude cafe this morning, sitting at the window, chatting with a friend, they mentioned that they are starting a website. That made me mention, "Hey, I have a blog. Let me think...what's the domain again??" And then, popped up this relic of time. I was quite surprised to see what I found -- it feels like a collection of TODO lists, dinner ideas, links and small bits of gratitude notes or accomplishments from othweise forgettable and mundance events from two years. So much has changed in my life from my last post that it would be impossible to enumerate. 
 
-These days, I generally feel free; I wish they way things are would go on forever, but I'm grateful knowing that it could end at any moment. This blog from two years ago is a snapshot into a decent time of my life, yet it brings me these reflections. 
+These days, I generally feel free; I wish the way things are would go on forever, but I'm grateful knowing that it could end at any moment. These blog posts from two years ago are a snapshot into a decent time of my life, yet it brings me these reflections. 
 
 I'm not surprised this blog had an audience of zero. I moved this type of writing to my journal and would be incredibly embarassed if anyone read it. I'm not sure why I thought it was neccesary to put these things on my blog in an online space. However, I re-read them, and I decided that I will keep them as they remind me of a time and place that was once something of mine. Life is funny like that -- a blog entry from little more than two years ago feels so distant.
 
