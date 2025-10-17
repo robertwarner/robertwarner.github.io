@@ -7,7 +7,7 @@ date: 2025-10-16
 
 # Hello World
 
-*Hello readers new and old! I'm once again adding a post to this silly blog. I'm writing this on my ipad using http://vscode.dev which is possibly the worst code editing experince I have had in recent years (I might be dumb but I can't figure out how to copy and paste? Someone who knows how IOS works, please look over my shoulder one day and tell me what I'm doing wrong...I swear I'm using cmd instead of control, yet no luck).* 
+*Hello readers new and old! I'm once again adding a post to this silly blog. I'm writing this on my ipad using http://vscode.dev which is possibly the worst code editing experince I have had in recent years (I might be dumb but I can't figure out how to copy and paste? Someone who knows how IOS works, please look over my shoulder one day and tell me what I'm doing wrong...I swear I'm using cmd instead of control, yet no luck). EDIT: I have since got paste to work at least!* 
 
 *I am presently writing this while tucked under the covers in a bed. I was drinking yerba mate while driving from Boulder to Aspen after work today. I'm in Aspen doing a fun fall weekend getaway to see my parents that I haven't seen in months. I miss them dearly and this trip will be a lovely chance to catch up as I have many stories and pictures to share since our last meetup. The following is my rambling thoughts from today.*
 
@@ -24,3 +24,8 @@ The biggest catalyst of change is lack of judgement. Learn to completely accept 
 Love your neighbor. Be kind. Take care of yourself. Ask for forgiveness. Stop seeking and start paying attention. Call your mom. 
 
 Happy thursday all! Stay tuned and maybe I'll post again in less than two years. 
+
+Bonus content: Last night my Laura and I went to Summit Music Hall in LoDo to see an artist she showed me, Matt Maltese. He's a brithish indie rock singer song writer that essentially only sings love and sad-boy songs. He didn't play this song, but it reminds me of what I was inspired to write tonight. I hope you enjoy! 
+
+https://music.youtube.com/watch?v=bCoe06a-e5M&si=iD8h6cS4dn8a3od8
+
